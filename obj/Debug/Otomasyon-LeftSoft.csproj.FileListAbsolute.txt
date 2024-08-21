@@ -1,0 +1,32 @@
+c:\users\ramazan\documents\visual studio 2013\Projects\Otomasyon-LeftSoft\bin\Debug\Otomasyon-LeftSoft.exe.config
+c:\users\ramazan\documents\visual studio 2013\Projects\Otomasyon-LeftSoft\bin\Debug\Otomasyon-LeftSoft.exe
+c:\users\ramazan\documents\visual studio 2013\Projects\Otomasyon-LeftSoft\bin\Debug\Otomasyon-LeftSoft.pdb
+c:\users\ramazan\documents\visual studio 2013\Projects\Otomasyon-LeftSoft\obj\Debug\Otomasyon-LeftSoft.csprojResolveAssemblyReference.cache
+c:\users\ramazan\documents\visual studio 2013\Projects\Otomasyon-LeftSoft\obj\Debug\Otomasyon_LeftSoft.Properties.Resources.resources
+c:\users\ramazan\documents\visual studio 2013\Projects\Otomasyon-LeftSoft\obj\Debug\Otomasyon-LeftSoft.csproj.GenerateResource.Cache
+c:\users\ramazan\documents\visual studio 2013\Projects\Otomasyon-LeftSoft\obj\Debug\Otomasyon-LeftSoft.exe
+c:\users\ramazan\documents\visual studio 2013\Projects\Otomasyon-LeftSoft\obj\Debug\Otomasyon-LeftSoft.pdb
+c:\users\ramazan\documents\visual studio 2013\Projects\Otomasyon-LeftSoft\obj\Debug\Otomasyon_LeftSoft.Form1.resources
+c:\users\ramazan\documents\visual studio 2013\Projects\Otomasyon-LeftSoft\obj\Debug\Otomasyon_LeftSoft.Arayuz.resources
+C:\Users\RAMAZAN\documents\visual studio 2013\Projects\Otomasyon-LeftSoft\bin\Debug\Dropbox.Api.dll
+C:\Users\RAMAZAN\documents\visual studio 2013\Projects\Otomasyon-LeftSoft\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RAMAZAN\documents\visual studio 2013\Projects\Otomasyon-LeftSoft\bin\Debug\Dropbox.Api.xml
+C:\Users\RAMAZAN\documents\visual studio 2013\Projects\Otomasyon-LeftSoft\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RAMAZAN\documents\visual studio 2013\Projects\Otomasyon-LeftSoft\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\RAMAZAN\source\repos\Otomasyon-LeftSoft\bin\Debug\Otomasyon-LeftSoft.exe.config
+C:\Users\RAMAZAN\source\repos\Otomasyon-LeftSoft\bin\Debug\Otomasyon-LeftSoft.exe
+C:\Users\RAMAZAN\source\repos\Otomasyon-LeftSoft\bin\Debug\Otomasyon-LeftSoft.pdb
+C:\Users\RAMAZAN\source\repos\Otomasyon-LeftSoft\bin\Debug\Dropbox.Api.dll
+C:\Users\RAMAZAN\source\repos\Otomasyon-LeftSoft\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RAMAZAN\source\repos\Otomasyon-LeftSoft\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\RAMAZAN\source\repos\Otomasyon-LeftSoft\bin\Debug\Dropbox.Api.xml
+C:\Users\RAMAZAN\source\repos\Otomasyon-LeftSoft\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RAMAZAN\source\repos\Otomasyon-LeftSoft\obj\Debug\Otomasyon-LeftSoft.csprojAssemblyReference.cache
+C:\Users\RAMAZAN\source\repos\Otomasyon-LeftSoft\obj\Debug\Otomasyon_LeftSoft.Arayuz.resources
+C:\Users\RAMAZAN\source\repos\Otomasyon-LeftSoft\obj\Debug\Otomasyon_LeftSoft.Form1.resources
+C:\Users\RAMAZAN\source\repos\Otomasyon-LeftSoft\obj\Debug\Otomasyon_LeftSoft.Properties.Resources.resources
+C:\Users\RAMAZAN\source\repos\Otomasyon-LeftSoft\obj\Debug\Otomasyon-LeftSoft.csproj.GenerateResource.cache
+C:\Users\RAMAZAN\source\repos\Otomasyon-LeftSoft\obj\Debug\Otomasyon-LeftSoft.csproj.CoreCompileInputs.cache
+C:\Users\RAMAZAN\source\repos\Otomasyon-LeftSoft\obj\Debug\Otomasyon-LeftSoft.csproj.CopyComplete
+C:\Users\RAMAZAN\source\repos\Otomasyon-LeftSoft\obj\Debug\Otomasyon-LeftSoft.exe
+C:\Users\RAMAZAN\source\repos\Otomasyon-LeftSoft\obj\Debug\Otomasyon-LeftSoft.pdb
